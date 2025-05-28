@@ -1,0 +1,3 @@
+/home/saarsena/Dev/SDLDefault/build/CMakeFiles/SDLDefault.dir
+/home/saarsena/Dev/SDLDefault/build/CMakeFiles/edit_cache.dir
+/home/saarsena/Dev/SDLDefault/build/CMakeFiles/rebuild_cache.dir
