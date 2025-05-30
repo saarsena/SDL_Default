@@ -1,22 +1,21 @@
 #pragma once
 #include <SDL.h>
 #include <SDL_image.h>
-#include <SDL_ttf.h>
 #include <SDL_mixer.h>
+#include <SDL_ttf.h>
 #include <vector>
 
-
 class GameManager {
-public:
+  public:
     GameManager();
     ~GameManager();
     bool init();
     void run();
     void clean();
 
-private:
-    SDL_Window* window;
-    SDL_Renderer* renderer;
+  private:
+    SDL_Window *window;
+    SDL_Renderer *renderer;
     bool isRunning;
 
     void handleEvents();
