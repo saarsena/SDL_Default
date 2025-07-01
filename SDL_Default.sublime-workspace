@@ -1,0 +1,693 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"o",
+				"operator*"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"TIL",
+				"TILE_HEIGHT"
+			],
+			[
+				"vie",
+				"VIEWPORT_HEIGHT_TILES"
+			],
+			[
+				"set",
+				"set_color"
+			],
+			[
+				"CELL",
+				"CELL_WIDTH"
+			],
+			[
+				"CEll",
+				"CELL_HEIGHT"
+			],
+			[
+				"C",
+				"CELL_HEIGHT"
+			],
+			[
+				"Tu",
+				"TurnManagerSystem"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Ope",
+				"OpenAI: Add Sheets to Context"
+			],
+			[
+				"OPen",
+				"OpenAI: Add Sheets to Context"
+			],
+			[
+				"open",
+				"OpenAI: Chat Model Select"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Open",
+				"OpenAI: Chat Model Select"
+			],
+			[
+				"Lsp",
+				"LSP: Restart Server"
+			],
+			[
+				"CMake",
+				"Set Syntax: CMake"
+			],
+			[
+				"Cop",
+				"Copilot: Help"
+			],
+			[
+				"op",
+				"OpenAI: Chat Select Mode"
+			],
+			[
+				"godo",
+				"Set Syntax: GDScript (Godot Engine)"
+			],
+			[
+				"OPe",
+				"OpenAI: Open in Tab"
+			],
+			[
+				"Copilo",
+				"Copilot: Explain"
+			],
+			[
+				"terminus: open",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Co",
+				"Copilot: Get Panel Completions"
+			],
+			[
+				"Op",
+				"OpenAI: Chat Select Mode"
+			],
+			[
+				"openfile",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Copi",
+				"Copilot: Fix This"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"THEME",
+				"UI: Select Theme"
+			],
+			[
+				"cmake",
+				"Set Syntax: CMake"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Copilog pane",
+				"Copilot: Get Panel Completions"
+			],
+			[
+				"Copo",
+				"Copilot: Fix This"
+			],
+			[
+				"O",
+				"OpenAI: New Message With LSP Output"
+			],
+			[
+				"spelling",
+				"Preferences: Open in Default Application Settings"
+			],
+			[
+				"Pre",
+				"Preferences: SublimeLinter Key Bindings"
+			],
+			[
+				"prett",
+				"Prettierd: Format"
+			],
+			[
+				"opEN",
+				"OpenAI: Chat Model Select"
+			],
+			[
+				"OpenAI",
+				"OpenAI: New Message"
+			],
+			[
+				"OP",
+				"OpenAI: Chat Model Select"
+			],
+			[
+				"Cha",
+				"OpenAI: Chat Model Select"
+			],
+			[
+				"Chat",
+				"OpenAI: Chat Model Select"
+			],
+			[
+				"chat",
+				"OpenAI: Chat Model Select"
+			],
+			[
+				"OPenC",
+				"OpenAI: Chat Model Select"
+			],
+			[
+				"OPEN",
+				"OpenAI: Chat Model Select"
+			],
+			[
+				"Prefere",
+				"Preferences: LSP-copilot Settings"
+			],
+			[
+				"Copilot",
+				"Copilot: Conversation Agents"
+			],
+			[
+				"Preferences: LSP-",
+				"Preferences: LSP-copilot Settings"
+			],
+			[
+				"pack rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"fish",
+				"Set Syntax: Fish"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"m",
+				"Markdown HTML Preview"
+			],
+			[
+				"mark",
+				"Markdown HTML Preview"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Package Control: L\\",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install",
+				"Package Control: Install Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: Dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"LSP Settings",
+				"Preferences: LSP Settings"
+			],
+			[
+				"Package Control: re m",
+				"Package Control: Remove Package"
+			],
+			[
+				"Instll",
+				"Package Control: Install Package"
+			],
+			[
+				"Preferences: LSP Settings",
+				"Preferences: LSP Settings"
+			],
+			[
+				"LSP",
+				"Preferences: LSP Settings"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Convert Ind",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"Preferences T",
+				"Preferences: Terminus Key Bindings"
+			],
+			[
+				"Control: Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Advanced Install Packages"
+			],
+			[
+				"them",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"Package Control:instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Preferences: Terminus Key Bindings",
+				"Preferences: Terminus Key Bindings"
+			],
+			[
+				"package con",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Prefenc",
+				"Preferences: LSP-clangd Settings"
+			],
+			[
+				"Theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"Package Control: LSP",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 498.0,
+		"history":
+		[
+			"cls",
+			"clear",
+			"g++\n",
+			"g",
+			"clear",
+			"ls",
+			"import os; path=sublime.packages_path(); (os.makedirs(path) if not os.path.exists(path) else None); window.run_command('exec', {'cmd': ['git', 'clone', 'https://github.com/dementive/SublimeGodot', 'SublimeGodot'], 'working_dir': path})",
+			"`import os; path=sublime.packages_path(); (os.makedirs(path) if not os.path.exists(path) else None); window.run_command('exec', {'cmd': ['git', 'clone', 'https://github.com/dementive/SublimeGodot', 'SublimeGodot'], 'working_dir': path})",
+			"Terminus: Open Default Shell in Tab",
+			"import os; path=sublime.packages_path(); (os.makedirs(path) if not os.path.exists(path) else None); window.run_command('exec', {'cmd': ['git', 'clone', 'https://github.com/dementive/SublimeGodot', 'SublimeGodot'], 'working_dir': path})",
+			"install package"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/saarsena/CppProjects/SDL_Default"
+	],
+	"file_history":
+	[
+		"/home/saarsena/.config/nvim/lua/plugins/init.lua",
+		"/home/saarsena/.config/nvim/lua/configs/lspconfig.lua",
+		"/home/saarsena/.config/nvim/lua/configs/conform.lua",
+		"/home/saarsena/.config/nvim/lua/configs/lspconfig.lua.backup",
+		"/home/saarsena/.config/nvim/lua/configs/conform.lua.backup",
+		"/home/saarsena/Dev/AdvTXT/Util.md",
+		"/home/saarsena/Dev/AdvTXT/Util.hpp",
+		"/home/saarsena/Dev/AdvTXT/main.cpp",
+		"/home/saarsena/Dev/AdvTXT/game.hpp",
+		"/home/saarsena/Dev/AdvTXT/horse.hpp",
+		"/home/saarsena/Dev/AdvTXT/player.hpp",
+		"/home/saarsena/Dev/TextAdventureGoBubbletea/main.go",
+		"/home/saarsena/Dev/AdvTXT/rooms.json",
+		"/home/saarsena/Dev/TextAdventureGoBubbletea/garbageAsFarAsIAmConcerned.go",
+		"/home/saarsena/Downloads/sorcerian/README.BAT",
+		"/home/saarsena/dos_games/Ultima Underworld/dosboxULTIMA1.conf",
+		"/home/saarsena/dos_games/Ultima Underworld/UWPortable.bat",
+		"/home/saarsena/Desktop/Ultima Underworld.desktop",
+		"/home/saarsena/.wine/drive_c/GOG Games/Ultima Underworld/Launch Ultima Underworld.lnk",
+		"/home/saarsena/dos_games/Ultima Underworld/__support/app/dosboxULTIMA1.conf",
+		"/home/saarsena/dos_games/Ultima Underworld/__support/app/GOG.BAT",
+		"/home/saarsena/.wine/drive_c/GOG Games/Ultima Underworld/UNDEROM1/DATA/UW.CFG",
+		"/usr/include/c++/15/iosfwd",
+		"/home/saarsena/Dev/AdvTXT/world.hpp",
+		"/home/saarsena/.local/share/Steam/steamapps/common/Forgotten Realms The Archives - Collection One/games/Eye of the Beholder ENG/base.conf",
+		"/home/saarsena/.local/share/Steam/steamapps/common/Forgotten Realms The Archives - Collection One/games/Eye of the Beholder ENG/setup.conf",
+		"/home/saarsena/.local/share/Steam/steamapps/common/Forgotten Realms The Archives - Collection One/games/Eye of the Beholder ENG/game.conf",
+		"/home/saarsena/Downloads/doxygen-1.14.0.linux.bin/doxygen-1.14.0/INSTALL",
+		"/home/saarsena/Dev/tree/world.hpp",
+		"/home/saarsena/Dev/tree/main.cpp",
+		"/home/saarsena/Dev/tree/room.hpp",
+		"/home/saarsena/Dev/tree/tree.sublime-project",
+		"/home/saarsena/Dev/tree/rooms.json",
+		"/home/saarsena/CLionProjects/jsonExp/what.json",
+		"/home/saarsena/CLionProjects/jsonExp/main.cpp",
+		"/home/saarsena/Documents/lolcat.txt",
+		"/home/saarsena/Documents/GodotPlugins.md",
+		"/home/saarsena/CLionProjects/jsonExp/dogs.json",
+		"/home/saarsena/Dev/golang/ch3/surface/image.svg",
+		"/home/saarsena/Dev/golang/ch1/fetch/main.go",
+		"/home/saarsena/Dev/golang/ch1/fetchall/main.go",
+		"/home/saarsena/Dev/TAD/include/Tile.hpp",
+		"/home/saarsena/Documents/AdventureText.md",
+		"/home/saarsena/Dev/scheduler/include/TimedEventScheduler.h",
+		"/home/saarsena/Dev/CppShit/TileFlags.hpp",
+		"/home/saarsena/Dev/CppShit/main.cpp",
+		"/home/saarsena/Dev/CppShit/GridCell.hpp",
+		"/home/saarsena/Dev/CppShit/GameMap.hpp",
+		"/home/saarsena/Godot_Projects/g2godot/README.md",
+		"/home/saarsena/Godot_Projects/g2godot/grid.gdshader",
+		"/home/saarsena/Godot_Projects/gridGodot/scenes/Dungeon/fov.gdshader",
+		"/home/saarsena/Dev/gp/include/GridCell.h",
+		"/home/saarsena/Dev/gp/src/Grid.cpp",
+		"/home/saarsena/Dev/gp/include/Constants.h",
+		"/home/saarsena/Pictures/Game_assets/Kenney Game Assets All-in-1 3.0.0/2D assets/Isometric Miniature Farm/Isometric Miniature Farm (2.0)/Instructions.url",
+		"/home/saarsena/.config/nvim/lua/mappings.lua",
+		"/home/saarsena/.config/nvim/lua/chadrc.lua",
+		"/home/saarsena/Downloads/Kingdom Explorer - Retro Town Tileset/Read Me.txt",
+		"/home/saarsena/Pictures/Game_assets/Kenney Game Assets All-in-1 3.0.0/2D assets/Isometric Vector Buildings/Spritesheets/spritesheet_wood.xml",
+		"/home/saarsena/Pictures/Game_assets/Kenney Game Assets All-in-1 3.0.0/2D assets/Isometric Nature/Tile information.txt",
+		"/home/saarsena/Pictures/Game_assets/Kenney Game Assets All-in-1 3.0.0/2D assets/Isometric Nature/Spritesheet/Missing spritesheet.txt",
+		"/home/saarsena/Pictures/Game_assets/Kenney Game Assets All-in-1 3.0.0/2D assets/Isometric Nature/License.txt",
+		"/home/saarsena/Pictures/Game_assets/Kenney Game Assets All-in-1 3.0.0/2D assets/Isometric Nature/3D Models.txt",
+		"/home/saarsena/Pictures/Game_assets/Kenney Game Assets All-in-1 3.0.0/2D assets/Isometric Medieval Town/3D Models.txt",
+		"/home/saarsena/Pictures/Game_assets/Kenney Game Assets All-in-1 3.0.0/2D assets/Isometric Medieval Town/Tile information.txt",
+		"/home/saarsena/Pictures/Game_assets/Kenney Game Assets All-in-1 3.0.0/2D assets/Isometric Modular Buildings/Tile information.txt",
+		"/home/saarsena/Godot_Projects/a2/node_2d.gd",
+		"/home/saarsena/Godot_Projects/a1/scripts/player.gd",
+		"/home/saarsena/Dev/gp/include/ShadowcastVisibility.h",
+		"/home/saarsena/Dev/gp/.gitignore",
+		"/home/saarsena/Dev/gp/src/ShadowcastVisibility.cpp",
+		"/home/saarsena/Godot_Projects/learn_2d_gamedev_godot_4_0.39.0_linux/projects/M06.looting_workbook/lessons/chest.gd",
+		"/home/saarsena/Godot_Projects/gridGodot/scripts/Player/playercd.gd",
+		"/home/saarsena/Godot_Projects/a1/scripts/player.gd.bak",
+		"/home/saarsena/Godot_Projects/a1/scripts/player.gd.BACKUP_BITCH",
+		"/home/saarsena/.config/terminal_banner_alt.fish",
+		"/home/saarsena/.config/fish/functions/askds.fish",
+		"/home/saarsena/Pictures/Game_assets/Kenney Game Assets All-in-1 3.0.0/2D assets/Block Pack (Pixel)/Tile size.txt",
+		"/home/saarsena/Pictures/Game_assets/Kenney Game Assets All-in-1 3.0.0/2D assets/1-Bit Pack/Tilesheet.txt",
+		"/home/saarsena/Dev/gp/include/GameManager.h",
+		"/home/saarsena/Dev/gp/include/Utils/Components.h",
+		"/home/saarsena/Dev/gp/include/Grid.h",
+		"/home/saarsena/Dev/gp/src/GameManager.cpp",
+		"/home/saarsena/Dev/gp/src/Player.cpp",
+		"/home/saarsena/Dev/fast-wfc/wfc/main.cpp",
+		"/home/saarsena/Pictures/Game_assets/Kenney Game Assets All-in-1 3.0.0/Goodies/Thanks.txt",
+		"/home/saarsena/Pictures/Game_assets/Kenney Game Assets All-in-1 3.0.0/2D assets/Micro Roguelike/Tilesheet.txt",
+		"/home/saarsena/Pictures/Game_assets/Kenney Game Assets All-in-1 3.0.0/2D assets/Roguelike Base Pack/Spritesheet/Instructions.txt",
+		"/home/saarsena/Dev/fast-wfc/wfc/samples.cfg",
+		"/home/saarsena/Dev/fast-wfc/wfc/samples/castle/data.cfg",
+		"/home/saarsena/Dev/fast-wfc/wfc/arrays.hpp",
+		"/home/saarsena/Pictures/Game_assets/Kenney Game Assets All-in-1 3.0.0/2D assets/1-Bit Pack/Instructions.url",
+		"/home/saarsena/Dev/fast-wfc/wfc/libs.cpp",
+		"/home/saarsena/Downloads/Kenney Game Assets All-in-1 3.0.0/2D assets/Roguelike Base Pack/Spritesheet/Instructions.txt",
+		"/home/saarsena/Downloads/Kenney Game Assets All-in-1 3.0.0/2D assets/RTS Medieval (Pixel)/Size.txt",
+		"/home/saarsena/Dev/gp/src/Walker.cpp",
+		"/home/saarsena/.local/share/nvim/lazy/NvChad/README.md",
+		"/home/saarsena/Godot_Projects/testing/ATextFile.txt",
+		"/home/saarsena/Documents/My_Demo.txt",
+		"/home/saarsena/Applications/ACE/README.md",
+		"/home/saarsena/Godot_Projects/learn_2d_gamedev_godot_4_0.39.0_linux/projects/M05.loot_it_all_workbook/lessons/Item.gd",
+		"/run/user/1000/kio-fuse-cXqJIM/sftp/192.168.5.99/media/roms/bak/flask_dl_app.py",
+		"/run/user/1000/kio-fuse-cXqJIM/sftp/192.168.5.99/media/roms/flask_dl_app.py",
+		"/home/saarsena/Applications/BrogueCE/src/brogue/Globals.h",
+		"/home/saarsena/Applications/BrogueCE/src/brogue/Globals.c",
+		"/home/saarsena/Applications/BrogueCE/src/brogue/GlobalsBase.h",
+		"/home/saarsena/Applications/BrogueCE/src/brogue/GlobalsBase.c",
+		"/home/saarsena/.wine/drive_c/Program Files/everquest_rof/eqhost.txt",
+		"/home/saarsena/.wine/drive_c/Program Files/everquest_rof/EtnSubscribe.txt",
+		"/home/saarsena/Applications/BrogueCE/src/brogue/Architect.c",
+		"/home/saarsena/Applications/BrogueCE/src/brogue/Light.c",
+		"/home/saarsena/.wine/dosdevices/c:/GOG Games/Emperor - Rise of the Middle Kingdom/Emperor.ini",
+		"/home/saarsena/CLionProjects/untitled/src/SchedulerExample.cpp",
+		"/home/saarsena/Dev/garbage/src/main.cpp",
+		"/home/saarsena/Dev/garbage/src/SDLWrapper.cpp",
+		"/home/saarsena/Dev/garbage/include/FunFlameRenderer.h",
+		"/home/saarsena/dos_games/MM3/dosboxMM3.conf",
+		"/home/saarsena/Dev/gp/gp.sublime-project",
+		"/home/saarsena/.config/i3/config",
+		"/home/saarsena/Dev/SocialExperiments/src/TurnManager.cpp",
+		"/home/saarsena/Dev/garbage/include/SDLWrapper.h",
+		"/home/saarsena/Dev/SocialExperiments/include/Walker.h",
+		"/home/saarsena/Dev/gp/include/Walker.h",
+		"/home/saarsena/Dev/SocialExperiments/src/Walker.cpp",
+		"/home/saarsena/Dev/bfgp/include/core/Components.h",
+		"/home/saarsena/Dev/bfgp/src/Player.cpp",
+		"/home/saarsena/Dev/bfgp/include/events/GameEvent.h",
+		"/home/saarsena/Dev/bfgp/include/core/Player.h"
+	],
+	"find":
+	{
+		"height": 47.0
+	},
+	"find_in_files":
+	{
+		"height": 163.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 141.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.exec":
+	{
+		"height": 178.0,
+		"history":
+		[
+		]
+	},
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "C++ Build",
+	"project": "SDL_Default.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"GameManager.c",
+				"GameManager.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 68.0,
+		"last_filter": "hand",
+		"selected_items":
+		[
+			[
+				"hand",
+				"handleCommand"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"lsp_show_inlay_hints": false
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 148.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

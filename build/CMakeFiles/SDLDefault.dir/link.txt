@@ -1,1 +1,0 @@
-/usr/bin/ccache  g++ -Wl,--dependency-file=CMakeFiles/SDLDefault.dir/link.d CMakeFiles/SDLDefault.dir/src/GameManager.cpp.o CMakeFiles/SDLDefault.dir/src/main.cpp.o -o SDLDefault  -lSDL2 -lSDL2_image -lSDL2 -lSDL2_ttf -lSDL2 -lSDL2_mixer -lSDL2 -lSDL2_image -lSDL2_ttf -lSDL2_mixer
